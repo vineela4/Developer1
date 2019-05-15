@@ -1,0 +1,4 @@
+[submodule "SubmoduleDevOps"]
+	path = SubmoduleDevOps
+	url = https://github.com/vineela4/DevOps.git
+	branch = master
